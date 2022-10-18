@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anon-123456789
-- 👀 I’m interested in: mostly Linux, and a bit of [FNF](https://github.com/ninjamuffin99/Funkin)
+- 👀 I’m interested in: mostly Linux and programming.
 - 🌱 I’m currently learning: nothing right now
 - 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: send mail to /dev/null
